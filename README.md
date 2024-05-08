@@ -9,3 +9,17 @@ Meu nome é Gustavo Lopes
 ### Contato 📫
 
 @00001080242909sp@al.educacao.sp.gov.br
+
+### For english speakers
+
+### Hello, welcome to my profile!   
+
+My name is Gustavo Lopes        
+
+- I'm taking a course at Alura
+- In the name I am developing the platform projects
+- I use this space to maintain personal organization and to share what I am developing
+
+### Contact 📫
+
+@00001080242909sp@al.educacao.sp.gov.br
